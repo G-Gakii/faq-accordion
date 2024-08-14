@@ -32,12 +32,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![mobile_design](https://github.com/G-Gakii/faq-accordion/blob/main/assets/images/screenshots/Screenshot%202024-08-14%20at%2011.09.16.png)
+![desktop design](https://github.com/G-Gakii/faq-accordion/blob/main/assets/images/screenshots/Screenshot%202024-08-14%20at%2011.09.33.png)
 
 ### Links
 
-- Solution URL: (http://127.0.0.1:5500/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://faq-accordion-rust-eight.vercel.app)
+- Live Site URL: (http://127.0.0.1:5500/)
 
 ## My process
 
